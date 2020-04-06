@@ -66,13 +66,13 @@ cat.sleep();
 //  action 3: eat
 cat.eat();
 //  2)
-//  Noun: computer
-//  action 1: checks emails
-computer.checkEmail();
-//  action 2: watch youtube
-computer.watchYoutube();
-//  action 3: opens visual studio
-computer.openVS();
+//  Noun: Fridge
+//  action 1: cool food
+fridge.coolFood();
+//  action 2: turns light on
+fridge.lightOn();
+//  action 3:  changes temperature
+fridge.tempChange();
 //  3) 
 //  Noun: House
 //  action 1: shelters family
@@ -94,17 +94,17 @@ bird.makeNest();
 //  action 1: orbits the earth
 satelitte.orbitEarth();
 //  action 2: sends location
-satelitte.sendLocation
+satelitte.sendLocation();
 //  action 3: recives a message
-satellite.receivesMessage 
+satellite.receivesMessage(); 
 //  6)
 //  Noun: coffee
 //  action 1: warms my mouth
 coffee.warmMouth();
 //  action 2: stains teeth
 coffee.stainTeeth();
-//  action 3: wakes me up
-coffee.wakeUP();
+//  action 3: caffinate Human
+coffee.caffinateHuman();
 //  7)
 //  Noun: Doctor
 //  action 1: prescribe medicine
@@ -112,7 +112,7 @@ doctor.prescribeMedicine();
 //  action 2: treat patient
 doctor.treatPatient();
 //  action 3: operate
- doctor.operate();
+doctor.operate();
 //  8)
 //  Noun:window
 //  action 1:opens
@@ -134,9 +134,9 @@ government.passBill();
 //  action 1:body resonates
 guitar.bodyResonate();
 //  action 2: strings vibrate
-guitar.stirngVibrate();
-//  action 3: machine head tighten
- guitar.machineheadTighten();
+guitar.stringVibrate();
+//  action 3: induce electric current
+guitar.induceCurrent();
 
 
 #endif
