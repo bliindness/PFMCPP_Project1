@@ -11,7 +11,7 @@ Purpose:  This project will get you thinking correctly about choosing good names
  1) write out 10 nouns in the space provided below.
     Choose nouns that do things.  
     avoid choosing nouns that have things done TO them.
-    e
+    
  
  2) for each of the 10 nouns, write out 3 actions it might perform, in plain english.
     a) AVOID state-checking actions, like "Car has a horn".  i.e.
@@ -58,85 +58,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:   cat
+//  action 1: purr 
+cat.purr();
+//  action 2: sleep
+cat.sleep();
+//  action 3: eat
+cat.eat();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Fridge
+//  action 1: cool food
+fridge.coolFood();
+//  action 2: turns light on
+fridge.lightOn();
+//  action 3:  changes temperature
+fridge.tempChange();
+//  3) 
+//  Noun: House
+//  action 1: shelters family
+house.shelterFamily();
+//  action 2: casts shadow
+house.castShadow();
+//  action 3: makes a home
+house.makeHome();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:Bird
+//  action 1:Fly
+bird.Fly();
+//  action 2: eats a worm
+bird.eatWorm();
+//  action 3: makes a nest
+bird.makeNest();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: satellite
+//  action 1: orbits the earth
+satelitte.orbitEarth();
+//  action 2: sends location
+satelitte.sendLocation();
+//  action 3: recives a message
+satellite.receivesMessage(); 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: coffee
+//  action 1: warms my mouth
+coffee.warmMouth();
+//  action 2: stains teeth
+coffee.stainTeeth();
+//  action 3: caffinate Human
+coffee.caffinateHuman();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Doctor
+//  action 1: prescribe medicine
+doctor.prescribeMedicine();
+//  action 2: treat patient
+doctor.treatPatient();
+//  action 3: operate
+doctor.operate();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:window
+//  action 1:opens
+window.open();
+//  action 2: closes
+window.close();
+//  action 3: lets in light
+window.letInLight();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Government
+//  action 1:makes laws
+government.makeLaw();
+//  action 2:takes taxes
+government.takeTaxes();
+//  action 3: passes bills
+government.passBill();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: guitar
+//  action 1:body resonates
+guitar.bodyResonate();
+//  action 2: strings vibrate
+guitar.stringVibrate();
+//  action 3: induce electric current
+guitar.induceCurrent();
 
 
 #endif
